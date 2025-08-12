@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tony Chan
+# 👋 Hello, I am Tony Chan
 
 I'm an entry-level full-stack web developer with a background in electrical engineering and a passion for building scalable, user-focused web applications. I’m currently completing my B.S. in Computer Science at Oregon State University (Spring 2025), with hands-on experience in both JavaScript and Python ecosystems.
 
@@ -14,12 +14,21 @@ I'm an entry-level full-stack web developer with a background in electrical engi
 - **Databases**: PostgreSQL, MongoDB  
 - **Other Tools**: Git, ZeroMQ, VSCode
 
-### 🎓 Education
-**B.S. in Computer Science**, Oregon State University — *Expected Spring 2025*  
-Former electrical engineer with industry experience in Silicon Valley
+## 🎓 Education
+**Bachelor of Science in Computer Science** — Oregon State University *(Expected June 2025)*  
+GPA: 3.8 / 4.0  
+- **Capstone Project:** Full-stack job application tracking system using **Node.js**, **Express**, **EJS**, **HTML/CSS/JS** (Server-Side Rendering).  
+- **MERN Project:** Built B2B shoe inventory & distribution website using **MongoDB**, **Express**, **React**, **Node.js** (Client-Side Rendering).  
+
+**Associate of Science in Software Programming** — Gavilan College *(June 2020)*  
+GPA: 4.0 / 4.0  
+
+**Master of Science in Electrical Engineering** — University of Southern California *(May 1992)*  
+
+**Bachelor of Science in Electrical Engineering** — Northwestern University *(June 1988)*  
 
 ---
 
-📍 Gilroy, CA  
+📍 San Jose, CA  
 🔗 [LinkedIn](https://www.linkedin.com/in/tony-chan-9392662) | [GitHub](https://github.com/Luckygoldjade)  
 💼 Open to front-end, back-end, or full-stack roles (hybrid or remote)
