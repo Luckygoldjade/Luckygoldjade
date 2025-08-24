@@ -22,5 +22,5 @@ Former electrical engineer with industry experience in Silicon Valley
 ---
 
 📍 San Jose, CA  
-🔗 [LinkedIn](https://www.linkedin.com/in/tony-chan-9392662) | [GitHub](https://github.com/Luckygoldjade)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tonychanwebdev) | [GitHub](https://github.com/Luckygoldjade)  
 💼 Open to front-end, back-end, or full-stack roles (hybrid or remote)
