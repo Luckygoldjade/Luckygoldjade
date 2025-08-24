@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tony Chan
+# 👋 Hello there, I am Tony Chan
 
 I'm an entry-level full-stack web developer with a background in electrical engineering and a passion for building scalable, user-focused web applications. I’m currently completing my B.S. in Computer Science at Oregon State University (Spring 2025), with hands-on experience in both JavaScript and Python ecosystems.
 
@@ -9,10 +9,11 @@ I'm an entry-level full-stack web developer with a background in electrical engi
 - **ZeroMQ Microservices**: Live API data routing using Python and ZeroMQ
 
 ### 🛠️ Tech Stack
-- **Languages**: JavaScript, Python, SQL  
-- **Frameworks & Libraries**: React, Node.js, Express, EJS  
+- **Languages**: JavaScript, Python, SQL, C
+- **Frameworks & Libraries**: React, Node.js, Express, EJS, Handlebars
 - **Databases**: PostgreSQL, MongoDB  
 - **Other Tools**: Git, ZeroMQ, VSCode
+--**Strengths**: Full-stack web dev, socket programming, CLI tools, systems programming
 
 ### 🎓 Education
 **B.S. in Computer Science**, Oregon State University — *Expected Spring 2025*  
@@ -20,6 +21,6 @@ Former electrical engineer with industry experience in Silicon Valley
 
 ---
 
-📍 Gilroy, CA  
+📍 San Jose, CA  
 🔗 [LinkedIn](https://www.linkedin.com/in/tony-chan-9392662) | [GitHub](https://github.com/Luckygoldjade)  
 💼 Open to front-end, back-end, or full-stack roles (hybrid or remote)
