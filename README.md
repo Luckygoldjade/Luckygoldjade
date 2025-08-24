@@ -13,7 +13,7 @@ I'm an entry-level full-stack web developer with a background in electrical engi
 - **Frameworks & Libraries**: React, Node.js, Express, EJS, Handlebars
 - **Databases**: PostgreSQL, MongoDB  
 - **Other Tools**: Git, ZeroMQ, VSCode
---**Strengths**: Full-stack web dev, socket programming, CLI tools, systems programming
+- **Strengths**: Full-stack web dev, socket programming, CLI tools, systems programming
 
 ### 🎓 Education
 **B.S. in Computer Science**, Oregon State University — *Expected Spring 2025*  
